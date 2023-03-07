@@ -4,6 +4,6 @@
 4  temperatura * 1,8 + 32 = k
 5  exibir k
 6 senão 
-7 temperatura * /5 = (y-32)/9 = w
+7 temperatura /5 = (y-32)/9 = w
 8 exibir w     
  
