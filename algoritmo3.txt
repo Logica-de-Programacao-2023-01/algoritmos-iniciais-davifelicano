@@ -1,0 +1,11 @@
+Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de números.
+
+1 leia o numero 
+2 x = numero
+3 some cada numero 
+4 z = soma resultante  
+5 leia o numero de elementos
+6 y = número de lementos 
+7 leia k como média 
+8 k = z/y
+9 escreva o resultado de k 
