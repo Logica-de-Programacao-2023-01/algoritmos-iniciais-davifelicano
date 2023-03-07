@@ -1,0 +1,6 @@
+1 leia numero
+2 numero = x 
+3 fatorial = x*(x-1)
+4     enqunato x > 0
+5 Ecreva fatorial
+
