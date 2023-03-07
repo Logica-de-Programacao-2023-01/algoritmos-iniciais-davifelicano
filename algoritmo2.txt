@@ -1,0 +1,9 @@
+1 leia Celcios como X
+2 leia fahrenhet como y
+3 se for celcuios
+4  temperatura * 1,8 + 32 = k
+5  exibir k
+6 senão 
+7 temperatura * /5 = (y-32)/9 = w
+8 exibir w     
+ 
