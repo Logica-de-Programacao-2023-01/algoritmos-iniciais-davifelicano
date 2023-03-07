@@ -1,0 +1,6 @@
+1 leia base 
+2 base = x 
+3 leia expoente 
+4 expoente = y 
+5 potencia = x¨y
+6 escreva potencia 
