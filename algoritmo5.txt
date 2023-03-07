@@ -1,0 +1,12 @@
+leia lista
+escreva um numero 
+numero = x
+Se x > y 
+   faça y+1
+senão 
+   faça y-1
+  enquanto x for direfente de y
+leia x 
+
+   
+ 
