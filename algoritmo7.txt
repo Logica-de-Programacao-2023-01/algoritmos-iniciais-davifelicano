@@ -1,0 +1,6 @@
+1 leia um numero
+2 x = numero
+3 se x=1
+4   escreva não é primo 
+5 se x/x=1
+6    escreva é primo 
