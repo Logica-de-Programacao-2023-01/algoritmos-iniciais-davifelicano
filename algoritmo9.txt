@@ -1,0 +1,9 @@
+ 
+1 leia capital
+capital = c
+2 leia juros 
+juros = i 
+3 leia tempo 
+tempo = t 
+M= c*(1+i)*t
+4 Escreva M
