@@ -1,0 +1,4 @@
+1 leia tamanho da base
+2 leia altura
+3 A = tamanho da base * altura / 2 
+4 Escreva A
