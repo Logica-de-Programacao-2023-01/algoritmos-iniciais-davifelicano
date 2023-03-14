@@ -1,0 +1,7 @@
+leia lista 
+n = = cada valor 
+p = peso
+z = n * p .....
+w = p+pX...
+M=z/w
+escreva M
